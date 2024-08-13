@@ -1,0 +1,99 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   
+
+}
+body{
+    background-color: yellow;
+    
+}
+header{
+    width: 100%;
+    height: 60px;
+    background-color: yellow;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+
+}
+header h1:hover{
+    color: rgb(243, 8, 149);
+}
+
+header ul{
+    display: flex;
+    margin: 20px;
+    
+}
+header ul li{
+    margin: 10px 30px;
+    list-style: none;
+    font-size: large;
+}
+header ul li:hover{
+    color: rgb(113, 36, 185);
+
+}
+
+header h1{
+    margin-top: 15px;
+}
+#banner{
+    background-image: url(https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg);
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.row{
+    width: 100%;
+    height: 600px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    /* start,end,space- between,space -around */
+}
+.col{
+    width: 150px;
+    height: 200px;
+    background-color: yellow;
+    border: 4px solid yellow;
+}
+.row{
+    width: 100%;
+    height: 600px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    /* start,end,space- between,space -around */
+}
+.col{
+    width: 150px;
+    height: 200px;
+    background-color: rgb(235, 235, 17);
+    border: 4px solid white;}
+    *{
+        padding: 19px;
+        margin: 19px;}
+        div{
+            width: 300px;
+            height: 200px;
+            background-color: white solid ;
+        }
+        
+#footer{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    margin-left: -20px;
+    margin-top: -100px;
+}
+div,ul{
+    list-style: none;
+}
+
+    
+      

@@ -1,0 +1,21 @@
+div{
+    width: 450px;
+    height: 450px;
+    background-color: crimson;
+    border: 5px solid;
+    /* none,solid,dotted,dashed,groove,inset,outset,double */
+    border-radius: 150%;
+    padding: 50px;
+    margin: 20px;
+    
+
+
+}
+img{
+    width: 600px;
+    border: 10px;inset: yellow;
+    border-radius: 500%;
+    
+}
+
+

@@ -1,0 +1,34 @@
+.row{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(246, 83, 115);
+    position: relative;
+}
+col{
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    background-color: cyan;
+    margin: 5px;
+
+
+}
+.col1{
+    background-color: rgb(200, 137, 200);
+    left: 200px;
+    top: 50px;
+    margin: 5px;
+
+
+}
+.col2{
+    background-color: coral;
+    left: 400px;
+    top: 50px;
+
+}
+#para{
+    background-color: beige;
+    position: sticky;
+    top: 20px;
+}

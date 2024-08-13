@@ -1,0 +1,31 @@
+
+.blue-rectangle {
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+    float: left;
+    margin: 210px;
+}
+.red-rectangle{
+    width: 200px;
+    height: 300px;
+    background-color:red;
+    float: inline-start;
+    margin: 210px
+
+}
+.box-container {
+    display: flex; /* Use flexbox for horizontal alignment */
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-right: 20px; /* Add space between the boxes */
+}
+
+/* Remove margin from the last box to prevent extra spacing */
+.box:last-child {
+    margin-right: 0;
+}

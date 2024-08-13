@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+nav{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: medium;
+    color: black;
+}
+.detel{
+    margin-left: 8%;
+    margin-top: 15%;
+
+}
+.detel h1{
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20px;
+
+
+}
+.detel p{
+    color: black;
+    line-height: 2px;
+
+}
+
+#banner{
+    width: 100%;
+    height: 400px;
+}
+#welcome{
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    border: 6px double blue;
+    padding: 30px;
+    background-color: rgba(255, 205, 205, 0.118);
+}
+
+    
+
+    
+
+
+
+    
+    

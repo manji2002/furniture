@@ -1,0 +1,147 @@
+.row{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(9, 9, 9);
+    position: relative;
+}
+.col{
+    width: 150px;
+    height: 200px;
+    background-color: cadetblue;
+    margin: 5px;
+    position: absolute;
+}
+.col1{
+    background-color: crimson;
+    left: 200px;
+    top: 50px;
+}
+.col2{
+    background-color: rgb(6, 6, 6);
+    left: 400px;
+    top: 50px;
+}
+.col3{
+    background-color: rgb(9, 9, 9);
+    left: 600px;
+    top: 50px;
+}
+.col4{
+    background-color: chocolate;
+    left: 800px;
+    top: 50px;
+}
+.col5{
+    background-color: burlywood;
+    left: 1000px;
+    top: 50px;
+}
+.row2{
+    width: 100%;
+    height: 500px;
+    background-color: blueviolet;
+    position: relative;
+}
+.col{
+    width: 150px;
+    height: 200px;
+    background-color: cadetblue;
+    margin: 5px;
+    position: absolute;
+}
+.col1{
+    background-color: crimson;
+    left: 200px;
+    top: 50px;
+}
+.col2{
+    background-color: blue;
+    left: 400px;
+    top: 50px;
+}
+.col3{
+    background-color: brown;
+    left: 600px;
+    top: 50px;
+}
+.col4{
+    background-color: chocolate;
+    left: 800px;
+    top: 50px;
+}
+.col5{
+    background-color: burlywood;
+    left: 1000px;
+    top: 50px;
+}
+.col6{
+    background-color: rgb(35, 21, 3);
+    left: 1200px;
+    top: 50px;
+}
+.col7{
+    background-color: beige;
+    left: 1400px;
+    top: 50px;
+}
+.row3{
+    width: 100%;
+    height: 500px;
+    background-color: blueviolet;
+    position: relative;
+}
+.col{
+    width: 150px;
+    height: 200px;
+    background-color: cadetblue;
+    margin: 5px;
+    position: absolute;
+}
+.col1{
+    background-color: crimson;
+    left: 200px;
+    top: 50px;
+}
+.col2{
+    background-color: blue;
+    left: 400px;
+    top: 50px;
+}
+.col3{
+    background-color: brown;
+    left: 600px;
+    top: 50px;
+}
+.col4{
+    background-color: chocolate;
+    left: 800px;
+    top: 50px;
+}
+.col5{
+    background-color: burlywood;
+    left: 1000px;
+    top: 50px;
+}
+.col6{
+    background-color: rgb(35, 21, 3);
+    left: 1100px;
+    top: 50px;
+}
+.col7{
+    background-color: beige;
+    left: 1200px;
+    top: 50px;
+}
+.col8{
+    background-color: rgb(91, 91, 21);
+    left: 1300px;
+    top: 50px;
+}
+.col9{
+    background-color: rgb(56, 56, 38);
+    left: 1400px;
+    top: left;
+}
+    
+
+
